@@ -94,7 +94,9 @@ Execute the program
     <br><center>5. 19AI303 - Engineering Mechanics and Product Development</center></br>
     <br><center>6. 19AI302 - Engineering Design and modeling</center></br>
     <br><center>7. ECA051-AD - MENTORING-AD1</center></br>
-      
+    <br><center>8. 19EY701 - Soft skills </center></br>  
+    <br><center>9. 19MC802 - Environmental Science </center></br>
+    
      
    </body>
 </html>
